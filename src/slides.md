@@ -15,7 +15,7 @@
 
 ## From Idea to Thing
 
-* 3D Modelling (OpenSCAD, Blender, … )
+* 3D Modelling (3D Builder, OpenSCAD, Blender, … )
 * Slicing (Cura, Slic3r)
 * Formats STL, GCode
 
