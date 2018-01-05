@@ -12,5 +12,9 @@ npm install -g reveal-md
 ## Usage
 
 ``` bash
-reveal-md src/slides.md
+reveal-md slides.md
 ```
+
+**Important**: If you execute just `reveal-md` and navigate to presentation using directory listing, static files are not included properly.
+
+

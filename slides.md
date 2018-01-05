@@ -5,11 +5,33 @@
 
 ---
 
-## Concepts
+## 3D printers 
 
-* Types of 3D printers 
-* RepRap (big idea behind)
-* Materials (PLA, ABS, …)
+Note: 3D printers comes in different shapes ...
+
+----
+
+### Fused filament fabrication (FFF)
+<!-- .slide: data-background="./Schematic_representation_of_Fused_Filament_Fabrication_01.png" -->
+
+![FFF](fff.png)
+
+
+---
+
+## RepRap and big idea behind it
+
+---
+
+## Plastics
+
+----
+
+### ABS
+
+----
+
+### PLA
 
 ---
 
