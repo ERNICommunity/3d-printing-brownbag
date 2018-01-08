@@ -7,15 +7,34 @@
 
 ## 3D printers 
 
-Note: 3D printers comes in different shapes ...
+* Extrusion
+* Light polymerized
+* Powder Bed
+* Laminated
 
 ----
 
-### Fused filament fabrication (FFF)
-<!-- .slide: data-background="./Schematic_representation_of_Fused_Filament_Fabrication_01.png" -->
+### Extrusion
 
-![FFF](fff.png)
+![FFF](fff.png) <!-- .element height="60%" width="60%" -->
 
+----
+
+### Light polymerized
+
+![SLA](sla.png) <!-- .element height="40%" width="40%" -->
+
+----
+
+### Powder Bed
+
+![3DP](3dp.png) <!-- .element height="70%" width="70%" -->
+
+----
+
+### Laminated
+
+![LOM](lom.png) <!-- .element height="60%" width="60%" -->
 
 ---
 
@@ -127,9 +146,4 @@ TODO
 
 ---
 
-## Delete me (later)
-
-
-> Best quote ever.
-
-Note: speaker notes FTW!
+## Thank you
