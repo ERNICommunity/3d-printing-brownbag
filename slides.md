@@ -3,42 +3,80 @@
 * In general 
 * ... and with our Prusa i3 MK2
 
+by Marek Linka and Jakub Šturc
 ---
 
-## 3D printers 
-
-* Extrusion
-* Light polymerized
-* Powder Bed
-* Laminated
+## Different types of 3D printers 
 
 ----
 
 ### Extrusion
 
-![FFF](fff.png) <!-- .element height="60%" width="60%" -->
+![FFF](fff.png) <!-- .element height="50%" width="50%" -->
+
+Scopigno R., Cignoni P., Pietroni N., Callieri M., Dellepiane M. (2017). "Digital Fabrication Techniques for Cultural Heritage: A Survey". Computer Graphics Forum 36 (1): 6–21. DOI:10.1111/cgf.12781.<!-- .element style="font-size:0.15em; color: grey" -->
 
 ----
 
 ### Light polymerized
 
-![SLA](sla.png) <!-- .element height="40%" width="40%" -->
+![SLA](sla.png) <!-- .element height="30%" width="30%" -->
+
+Scopigno R., Cignoni P., Pietroni N., Callieri M., Dellepiane M. (2017). "Digital Fabrication Techniques for Cultural Heritage: A Survey". Computer Graphics Forum 36 (1): 6–21. DOI:10.1111/cgf.12781.<!-- .element style="font-size:0.15em; color: grey" -->
 
 ----
 
 ### Powder Bed
 
-![3DP](3dp.png) <!-- .element height="70%" width="70%" -->
+![3DP](3dp.png) <!-- .element height="50%" width="50%" -->
+
+Scopigno R., Cignoni P., Pietroni N., Callieri M., Dellepiane M. (2017). "Digital Fabrication Techniques for Cultural Heritage: A Survey". Computer Graphics Forum 36 (1): 6–21. DOI:10.1111/cgf.12781.<!-- .element style="font-size:0.15em; color: grey" -->
 
 ----
 
 ### Laminated
 
-![LOM](lom.png) <!-- .element height="60%" width="60%" -->
+![LOM](lom.png) <!-- .element height="50%" width="50%" -->
+
+By LaurensvanLieshout (Own work) [CC BY-SA 3.0], via Wikimedia Commons <!-- .element style="font-size:0.15em; color: grey" -->
 
 ---
 
-## RepRap and big idea behind it
+## RepRap
+
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+
+----
+
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+* RepRap is humanity's first general-purpose self-replicating manufacturing machine.
+* RepRap is short for replicating rapid prototyper.
+* The RepRap project started in England in 2005 as a University of Bath by Dr Adrian Bowyer.
+
+----
+
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+### The first replication - 2007
+
+![The first replication](First_replication.jpg)
+
+----
+
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+### RepRap Mendel - 2009
+![Mendel](mendel.jpg)
+
+----
+
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+### Prusa Mendel - 2010
+![Prusa Mendel](prusa-mendel.jpg) <!-- .element height="50%" width="50%" -->
+
+----
+ 
+<!-- .slide: data-background-image="oshw.png" data-background-size="50%" -->
+### Jellyfish - 2012
+![eof](jellyfish-eof.jpg)
 
 ---
 
