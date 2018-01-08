@@ -84,11 +84,67 @@ By LaurensvanLieshout (Own work) [CC BY-SA 3.0], via Wikimedia Commons <!-- .ele
 
 ----
 
-### ABS
+### Polylactic acid 
+
+<!-- .slide: data-background-image="pla.png" data-background-size="50%" -->
+
+* Made from corn, sugar cane or any starchy vegetable
+* Biodegradable and can be fully recycled
+* Somethimes used in body implants
 
 ----
 
-### PLA
+### Polylactic acid
+
+<!-- .slide: data-background-image="pla.png" data-background-size="50%" -->
+
+* Easy to print with
+* Do not smell or smell like candy
+* Almost do not wrap
+* Print temperature: 190°C – 230°C 
+* Bed temperature: 20°C – 60°C
+* Hard but brittle
+
+----
+
+### Acrylonitrile butadiene styrene 
+
+<!-- .slide: data-background-image="abs.png" data-background-size="80%" -->
+
+* Bicycle helmets and Lego is made from ABS
+* Derived from natural gas or crude oil
+* Sometimes used in tatoo inks
+* At 400 °C decompose to carcinogenic stuff
+* During 3D printing may produce ultra fine particels
+
+----
+
+### Acrylonitrile butadiene styrene 
+
+<!-- .slide: data-background-image="abs.png" data-background-size="80%" -->
+
+* Slightly more difficult t to print with
+* No smell nice (still acceptable)
+* Tendency to wrap during cooldown
+* High temperatur tolerance −20 to 80 °C 
+* Print temperature: 220°C – 250°C 
+* Bed temperature: 80°C – 110°C
+* Hard and little bit flexible
+* Do not like long-term sun (UV) exposure
+
+----
+
+### Other Plastics
+
+* PETG 
+* Nylon
+* Solvable (HIPS, PVA)
+* Flexible (TPE, TPU, TPC flexible)
+* Wood (PLA with wooden fibers)
+* Metalic (PLA/ABS with metal powder)
+* Glowing (PLA/ABS with glowing stuff)
+* Magnetic, Conductive (PLA/ABS with other stuff)
+* ...
 
 ---
 
@@ -239,6 +295,7 @@ TODO
 
 ----
 
+<!-- .slide: data-background-image="fail.jpg" -->
 ### Everything will go wrong
 * 3D printing is more alchemy than chemistry
 * Stuff that can go wrong will go wrong
