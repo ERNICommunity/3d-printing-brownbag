@@ -274,7 +274,7 @@ TODO
  - Increase filament flow
  - Change temperatures etc.
 * there is no RIGHT answer here
-* Just try it and see - failure is __always__ an option
+* Just try it and see
 
 ---
 
@@ -294,7 +294,7 @@ TODO
 * Be ready to stand watch as the first layer sets
 * Keep an eye on the print
 
-----
+---
 
 <!-- .slide: data-background-image="fail.jpg" -->
 ### Everything will go wrong
@@ -303,6 +303,12 @@ TODO
 * Be prepared for bad prints
 * Get familiar with settings and options of both slicer and printer
 * Experiment - trial and error will get you far
+
+----
+
+> __Failure is ALWAYS an option.__
+
+> -- _Adam Savage_
 
 ---
 
