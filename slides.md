@@ -193,11 +193,6 @@ Making a model printable
 
 ----
 
-#### Slic3r
-TODO
-
-----
-
 #### Ultimaker Cura
 * Originally used for Ultimaker printers
 * Has presets for a wide variety of 3D printers, including Prusa
@@ -205,6 +200,15 @@ TODO
 * Can set all the main and most of the detailed print options
 * For Prusa-specific settings (such as Linear Advance) it's best to use Slic3r and/or PrusaControl
 * Latest version (3.1) is bugged, recommended to use 3.0.4
+
+----
+
+#### Slic3r
+* Open source under AGPL, but written in Perl
+* Very configurable, support almost all printers
+* Allows detailed control about generated GCode.
+* Can be downloaded preconfigured by Prusa
+
 
 ---
 
