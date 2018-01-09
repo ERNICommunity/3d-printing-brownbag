@@ -99,8 +99,8 @@ By LaurensvanLieshout (Own work) [CC BY-SA 3.0], via Wikimedia Commons <!-- .ele
 <!-- .slide: data-background-image="pla.png" data-background-size="50%" -->
 
 * Easy to print with
-* Do not smell or smell like candy
-* Almost do not wrap
+* Does not smell or smell like candy
+* Almost does not warp
 * Print temperature: 190°C – 230°C 
 * Bed temperature: 20°C – 60°C
 * Hard but brittle
@@ -115,7 +115,7 @@ By LaurensvanLieshout (Own work) [CC BY-SA 3.0], via Wikimedia Commons <!-- .ele
 * Derived from natural gas or crude oil
 * Sometimes used in tatoo inks
 * At 400 °C decompose to carcinogenic stuff
-* During 3D printing may produce ultra fine particels
+* During 3D printing may produce ultra fine particles
 
 ----
 
@@ -123,14 +123,14 @@ By LaurensvanLieshout (Own work) [CC BY-SA 3.0], via Wikimedia Commons <!-- .ele
 
 <!-- .slide: data-background-image="abs.png" data-background-size="80%" -->
 
-* Slightly more difficult t to print with
-* No smell nice (still acceptable)
-* Tendency to wrap during cooldown
-* High temperatur tolerance −20 to 80 °C 
+* Slightly more difficult to print with
+* Smells (still acceptable)
+* Tendency to warp during cooldown
+* High temperature tolerance −20 to 80 °C 
 * Print temperature: 220°C – 250°C 
 * Bed temperature: 80°C – 110°C
-* Hard and little bit flexible
-* Do not like long-term sun (UV) exposure
+* Hard and slightly flexible
+* Does not like long-term sun (UV) exposure
 
 ----
 
@@ -204,6 +204,7 @@ TODO
 * More intuitive UI compared to Slic3r
 * Can set all the main and most of the detailed print options
 * For Prusa-specific settings (such as Linear Advance) it's best to use Slic3r and/or PrusaControl
+* Latest version (3.1) is bugged, recommended to use 3.0.4
 
 ---
 
