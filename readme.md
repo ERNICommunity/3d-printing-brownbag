@@ -1,6 +1,8 @@
 3D Printing Brownbag
 ==========
 
+:warning: **REPOSITORY NOT ACTIVE SINCE 2018 Dependabot alerts in git security settings disabled**
+
 These are the slides @mareklinka & @jakub-sturc are going to present on ERNI Slovakia brown bag session.
 
 ## Installation
